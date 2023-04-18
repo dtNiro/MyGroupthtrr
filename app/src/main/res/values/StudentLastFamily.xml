@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group">
+        <item>Акимов</item>
+        <item>Вирц</item>
+        <item>Гогорян</item>
+        <item>Ефименков</item>
+        <item>Кабаев</item>
+        <item>Киреев</item>
+        <item>Кокарев</item>
+        <item>Кочетков</item>
+        <item>Кузьмина</item>
+        <item>Кулакова</item>
+        <item>Плотников</item>
+        <item>Пономаренко</item>
+        <item>Рожков</item>
+        <item>Рубцов</item>
+        <item>Слепцов</item>
+        <item>Сухов</item>
+        <item>Талбаков</item>
+        <item>Турзанов</item>
+        <item>Турутин</item>
+        <item>Федорова</item>
+        <item>Филиппов</item>
+        <item>Филушкин</item>
+        <item>Цибин</item>
+        <item>Чистиков</item>
+        <item>Якунина</item>
+    </string-array>
+</resources>
